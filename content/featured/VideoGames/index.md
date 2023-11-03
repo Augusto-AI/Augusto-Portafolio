@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'API Video Games'
+title: 'Videogames APP'
 cover: './VideoGames.png'
 github: 'https://github.com/Augusto-AI/PI-Videogames-AugustoHerrera'
 external: 'https://github.com/Augusto-AI/PI-Videogames-AugustoHerrera'

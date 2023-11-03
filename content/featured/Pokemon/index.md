@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Pokemon API'
+title: 'Pokemon APP'
 cover: './Landing_Page.png'
 external: 'https://github.com/Augusto-AI/HENRY-Pokemon-PI-Augusto'
 cta: 'https://github.com/Augusto-AI/HENRY-Pokemon-PI-Augusto'
