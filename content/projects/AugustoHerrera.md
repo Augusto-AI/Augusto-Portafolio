@@ -2,7 +2,7 @@
 date: '2023-01-11'
 title: 'Augusto Herrera Site'
 github: 'https://github.com/Augusto-AI/Augusto-Portafolio'
-external: 'https://time-to-have-more-fun.now.sh/'
+external: 'https://augusto-herrera.netlify.app/'
 tech:
   - React
   - JS
