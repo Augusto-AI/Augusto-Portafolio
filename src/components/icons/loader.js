@@ -13,6 +13,7 @@ const IconLoader = () => (
         strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"
+        fill="navy"
         d="M 50, 5
           L 11, 27
           L 11, 72
