@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/Augusto-IA/Augusto-Portafolio">
+        <a href="https://github.com/Augusto-AI/Augusto-Portafolio">
           <div>Designed &amp; Built by Augusto Herrera</div>
 
           {githubInfo.stars && githubInfo.forks && (
