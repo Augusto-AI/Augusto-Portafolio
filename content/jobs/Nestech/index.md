@@ -4,7 +4,7 @@ title: 'Full Stack Web Developer [Freelance]'
 company: 'Nestech Analytics'
 location: 'Miami, Fl'
 range: 'Jan 2016 '
-url: 'https://www.nesteh.us'
+url: 'https://www.nestech.us'
 ---
 
 - Developed landing pages, dashboards, and apps using WordPress, and Wix.
