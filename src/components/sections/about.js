@@ -155,7 +155,7 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of working for{' '}
               <a href="https://redcomputo.com.co">IT Corporation</a>,{' '}
               <a href="https://www.dell.com/">a huge corporation, as a partner</a>, and{' '}
-              <a href="https://soyhenry.con/">Full Stack Bootcamp</a>. My main focus these days is
+              <a href="https://soyhenry.com/">Full Stack Bootcamp</a>. My main focus these days is
               building accessible, inclusive products and digital experiences at{' '}
               <a href="https://nestech.us/">Nestech Analytics</a> for a variety of clients.
             </p>
