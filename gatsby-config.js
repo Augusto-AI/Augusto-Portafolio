@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Augusto Herrera',
     description:
-      'Augusto Herrera is Full Stack Developer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Augusto Herrera is Web Designer & Full Stack Developer who specializes in building exceptional digital experiences.',
     siteUrl: 'https://github.com/Augusto-IA', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@augustoherrera',
