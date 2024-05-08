@@ -144,11 +144,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Augusto and I'm a Web Designer & Full Stack Developer with a strong
-              IT background. I specialize in Design and Front-end development, using like Figma and
-              Bootstrap and technologies like HTML, CSS, and JavaScript, along with frameworks like
-              React . On the back end, I have some knowlge in Node.js, Express, and Firebase. I'm
-              experienced in agile methodologies, GIT, data structures, and algorithms.
+              Hello! I'm Augusto, a passionate Web Designer & Full Stack Developer with a robust IT
+              background. My expertise lies in Design and Front-end development, utilizing tools
+              such as Figma and Bootstrap, along with technologies like HTML, CSS, and JavaScript.
+              I'm proficient in frameworks like React, and on the back end, I have experience with
+              Node.js, Express, and Firebase. With a deep understanding of agile methodologies, GIT,
+              data structures, and algorithms, I bring a comprehensive skill set to every project I
+              undertake.
             </p>
 
             <p>
