@@ -144,13 +144,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Augusto, a passionate Web Designer & Full Stack Developer with a robust IT
-              background. My expertise lies in Design and Front-end development, utilizing tools
-              such as Figma and Bootstrap, along with technologies like HTML, CSS, and JavaScript.
-              I'm proficient in frameworks like React, and on the back end, I have experience with
-              Node.js, Express, and Firebase. With a deep understanding of agile methodologies, GIT,
-              data structures, and algorithms, I bring a comprehensive skill set to every project I
-              undertake.
+              Hello! I'm Augusto, a dedicated Web Designer with a strong foundation in Full Stack
+              Development. My passion lies in crafting visually stunning and highly functional
+              websites. Specializing in Design and Front-end development, I create captivating user
+              experiences using tools like Figma and Bootstrap. Proficient in HTML, CSS, and
+              JavaScript, I bring designs to life while ensuring seamless user interaction. With a
+              keen eye for detail and a deep understanding of design principles, I excel in creating
+              intuitive interfaces. My goal is to deliver not just a website, but an immersive
+              digital experience that leaves a lasting impression.
             </p>
 
             <p>
