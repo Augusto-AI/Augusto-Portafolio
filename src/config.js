@@ -9,7 +9,7 @@ module.exports = {
 
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/augusto-herrera-velasquez-3445873aa/',
+      url: 'https://www.linkedin.com/in/augusto-herrera-vel%C3%A1squez-3445873aa/',
     },
   ],
 
